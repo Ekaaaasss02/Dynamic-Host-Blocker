@@ -121,7 +121,7 @@ sudo apt install sqlite3 -y
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dynamic-host-blocker.git
+git clone https://github.com/Ekaaaasss02/Dynamic-Host-Blocker.git
 cd dynamic-host-blocker
 ```
 
